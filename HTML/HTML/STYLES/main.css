@@ -1,0 +1,53 @@
+nav{
+    background-color: #FF0000;
+    height: 120px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+nav img{
+    width: 60px;
+    height: 60px;
+}
+nav >div{
+display: inline;
+}
+.imagen-centro {
+    position: relative;
+    margin-left: 30%;
+}
+.compartir{
+    position: absolute;
+    right: 0;
+    top:40px;
+}
+.contenedor {
+    margin-top:120px;
+}
+
+.btn-conf{
+    background-color: aqua;
+    color: white;
+    padding: 40px;
+}
+.btn-def{
+    background-color: black;
+    color: white;
+    padding: 10 px;
+    margin-left: 10 px;
+}
+
+button :hover{
+transform:scale(1.5)
+
+}
+
+
+
+
+    
+
+
+
+
+
