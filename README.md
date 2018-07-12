@@ -2,6 +2,7 @@
 # SANDRITA
 PEPITO
 
-## proyecto htmil css
+## proyecto HTML css
+PROGRAMANDO
 una pequeña descripcion 
 
